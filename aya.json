@@ -1,0 +1,10 @@
+{
+    "ayaVersion": "0.1",
+    "name": "C",
+    "group": "com.example",
+    "version": "0.0.1",
+    "dependency": {
+        "A": { "file": "A" },
+        "B": { "file": "B" }
+    }
+}
